@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👯 I’m looking for Open source contribution,  Internship or a Job<br>🌱 I’m currently learning Advance java and Spring Boot<br>💬 Ask me about Core java , react , tailwind , DSA in java , JavaScript ,Bootstrap , Html and Css , Git&GitHub
+💫 About Me:<br>👯 I’m looking for Open source contribution,  Internship or a Job<br>🌱 I’m currently learning Advance java and Spring Boot<br>💬 Ask me about Core java ,Advance Java , Spring core , Spring Web MVC , Spring Data JPA, react , tailwind , DSA in java , JavaScript ,Bootstrap , Html and Css , Git&GitHub
 
   
 ## 🌐 Socials:
